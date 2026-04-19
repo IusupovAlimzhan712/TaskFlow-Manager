@@ -1,0 +1,901 @@
+Robot Name: Alpha
+Robot Type: Terminator
+Position: (5, 5)
+Kills: 0
+Lives: 3
+Robot can't fire. 
+------------------------
+Robot Name: Star
+Robot Type: RoboCop
+Position: (6, 12)
+Kills: 0
+Lives: 3
+Fire Locations: (0, 0), (0, 0), (0, 0), 
+------------------------
+Robot Name: kidd
+Robot Type: TerminatorRoboCop
+Position: (1, 7)
+Kills: 0
+Lives: 3
+Fire Locations: (0, 0), (0, 0), (0, 0), 
+------------------------
+Robot Name: Robo
+Robot Type: RoboCop
+Position: (2, 19)
+Kills: 0
+Lives: 3
+Fire Locations: (0, 0), (0, 0), (0, 0), 
+------------------------
+Robot Name: sigma
+Robot Type: BlueThunder
+Position: (19, 4)
+Kills: 0
+Lives: 3
+Fire Location: (0, 0)
+------------------------
+Robot Name: Beta
+Robot Type: Madbot
+Position: (15, 9)
+Kills: 0
+Lives: 3
+Fire Location: (0, 0)
+------------------------
+Robot Name: Bravo
+Robot Type: RoboTank
+Position: (14, 0)
+Kills: 0
+Lives: 3
+Fire Location: (0, 0)
+------------------------
+Robot Name: Delta
+Robot Type: UltimateRobot
+Position: (9, 4)
+Kills: 0
+Lives: 3
+Fire Locations: (0, 0), (0, 0), (0, 0), 
+random Fire Locations At The Field: (0, 0), (0, 0), (0, 0), 
+------------------------
+#------------------------------------------------------------#
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  r |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  t  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  r  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| R  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+#------------------------------------------------------------#
+
+
+step: 1
+Robot Name: Alpha
+Robot Type: Terminator
+Position: (6, 5)
+Kills: 0
+Lives: 3
+Robot can't fire. 
+------------------------
+Robot Name: Star
+Robot Type: RoboCop
+Position: (7, 12)
+Kills: 0
+Lives: 3
+Fire Locations: (10, 13), (10, 8), (8, 7), 
+------------------------
+Robot Name: kidd
+Robot Type: TerminatorRoboCop
+Position: (2, 8)
+Kills: 0
+Lives: 3
+Fire Locations: (5, 3), (2, 0), (0, 3), 
+------------------------
+Robot Name: Robo
+Robot Type: RoboCop
+Position: (3, 19)
+Kills: 0
+Lives: 3
+Fire Locations: (7, 14), (4, 18), (3, 15), 
+------------------------
+Robot Name: sigma
+Robot Type: BlueThunder
+Position: (19, 4)
+Kills: 0
+Lives: 3
+Fire Location: (18, 4)
+------------------------
+Robot Name: Beta
+Robot Type: Madbot
+Position: (15, 9)
+Kills: 0
+Lives: 3
+Fire Location: (15, 10)
+------------------------
+Robot Name: Bravo
+Robot Type: RoboTank
+Position: (14, 0)
+Kills: 0
+Lives: 3
+Fire Location: (14, 7)
+------------------------
+Robot Name: Delta
+Robot Type: UltimateRobot
+Position: (10, 3)
+Kills: 0
+Lives: 3
+Fire Locations: (14, 4), (5, 1), (1, 3), 
+random Fire Locations At The Field: (2, 15), (1, 9), (7, 3), 
+------------------------
+#------------------------------------------------------------#
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  r |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  t  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  r  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| R  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+#------------------------------------------------------------#
+
+
+step: 2
+Robot Name: Alpha
+Robot Type: Terminator
+Position: (6, 6)
+Kills: 0
+Lives: 3
+Robot can't fire. 
+------------------------
+Robot Name: Star
+Robot Type: RoboCop
+Position: (8, 12)
+Kills: 0
+Lives: 3
+Fire Locations: (6, 7), (8, 11), (6, 11), 
+------------------------
+Robot Name: kidd
+Robot Type: TerminatorRoboCop
+Position: (2, 7)
+Kills: 0
+Lives: 3
+Fire Locations: (1, 16), (1, 1), (5, 13), 
+------------------------
+Robot Name: Robo
+Robot Type: RoboCop
+Position: (4, 18)
+Kills: 0
+Lives: 3
+Fire Locations: (5, 15), (10, 17), (6, 12), 
+------------------------
+Robot Name: sigma
+Robot Type: BlueThunder
+Position: (19, 4)
+Kills: 0
+Lives: 3
+Fire Location: (18, 5)
+------------------------
+Robot Name: Beta
+Robot Type: Madbot
+Position: (15, 9)
+Kills: 0
+Lives: 3
+Fire Location: (15, 8)
+------------------------
+Robot Name: Bravo
+Robot Type: RoboTank
+Position: (14, 0)
+Kills: 0
+Lives: 3
+Fire Location: (18, 18)
+------------------------
+Robot Name: Delta
+Robot Type: UltimateRobot
+Position: (11, 4)
+Kills: 0
+Lives: 3
+Fire Locations: (2, 4), (13, 12), (17, 4), 
+random Fire Locations At The Field: (17, 6), (0, 11), (11, 10), 
+------------------------
+#------------------------------------------------------------#
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  r  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  t  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  r  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| R  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+#------------------------------------------------------------#
+
+
+step: 3
+Robot Name: Alpha
+Robot Type: Terminator
+Position: (5, 7)
+Kills: 0
+Lives: 3
+Robot can't fire. 
+------------------------
+Robot Name: Star
+Robot Type: RoboCop
+Position: (7, 12)
+Kills: 0
+Lives: 3
+Fire Locations: (3, 11), (6, 19), (4, 6), 
+------------------------
+Robot Name: kidd
+Robot Type: TerminatorRoboCop
+Position: (1, 7)
+Kills: 0
+Lives: 3
+Fire Locations: (4, 12), (8, 5), (0, 1), 
+------------------------
+Robot Name: Robo
+Robot Type: RoboCop
+Position: (4, 19)
+Kills: 0
+Lives: 3
+Fire Locations: (7, 13), (7, 15), (9, 14), 
+------------------------
+Robot Name: sigma
+Robot Type: BlueThunder
+Position: (19, 4)
+Kills: 0
+Lives: 3
+Fire Location: (19, 5)
+------------------------
+Robot Name: Beta
+Robot Type: Madbot
+Position: (15, 9)
+Kills: 0
+Lives: 3
+Fire Location: (15, 10)
+------------------------
+Robot Name: Bravo
+Robot Type: RoboTank
+Position: (14, 0)
+Kills: 0
+Lives: 3
+Fire Location: (12, 11)
+------------------------
+Robot Name: Delta
+Robot Type: UltimateRobot
+Position: (10, 3)
+Kills: 0
+Lives: 3
+Fire Locations: (19, 2), (4, 6), (8, 4), 
+random Fire Locations At The Field: (5, 3), (14, 9), (13, 5), 
+------------------------
+#------------------------------------------------------------#
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  r |
+| .  .  .  .  .  .  .  t  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  r  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| R  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+#------------------------------------------------------------#
+
+
+step: 4
+Robot Name: Alpha
+Robot Type: Terminator
+Position: (6, 7)
+Kills: 0
+Lives: 3
+Robot can't fire. 
+------------------------
+Robot Name: Star
+Robot Type: RoboCop
+Position: (8, 13)
+Kills: 0
+Lives: 3
+Fire Locations: (10, 19), (9, 13), (7, 7), 
+------------------------
+Robot Name: kidd
+Robot Type: TerminatorRoboCop
+Position: (2, 7)
+Kills: 0
+Lives: 3
+Fire Locations: (0, 9), (8, 9), (4, 8), 
+------------------------
+Robot Name: Robo
+Robot Type: RoboCop
+Position: (3, 18)
+Kills: 0
+Lives: 3
+Fire Locations: (5, 19), (2, 11), (4, 11), 
+------------------------
+Robot Name: sigma
+Robot Type: BlueThunder
+Position: (19, 4)
+Kills: 0
+Lives: 3
+Fire Location: (20, 5)
+------------------------
+Robot Name: Beta
+Robot Type: Madbot
+Position: (15, 9)
+Kills: 0
+Lives: 3
+Fire Location: (14, 8)
+------------------------
+Robot Name: Bravo
+Robot Type: RoboTank
+Position: (14, 0)
+Kills: 0
+Lives: 3
+Fire Location: (14, 11)
+------------------------
+Robot Name: Delta
+Robot Type: UltimateRobot
+Position: (10, 4)
+Kills: 0
+Lives: 3
+Fire Locations: (3, 5), (2, 3), (7, 7), 
+random Fire Locations At The Field: (10, 8), (2, 12), (10, 19), 
+------------------------
+#------------------------------------------------------------#
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  r  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  t  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  r  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| R  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+#------------------------------------------------------------#
+
+
+step: 5
+Robot Name: Alpha
+Robot Type: Terminator
+Position: (6, 8)
+Kills: 0
+Lives: 3
+Robot can't fire. 
+------------------------
+Robot Name: Star
+Robot Type: RoboCop
+Position: (9, 13)
+Kills: 0
+Lives: 3
+Fire Locations: (5, 11), (9, 19), (8, 12), 
+------------------------
+Robot Name: kidd
+Robot Type: TerminatorRoboCop
+Position: (1, 8)
+Kills: 0
+Lives: 3
+Fire Locations: (0, 17), (3, 14), (8, 11), 
+------------------------
+Robot Name: Robo
+Robot Type: RoboCop
+Position: (3, 17)
+Kills: 0
+Lives: 3
+Fire Locations: (4, 10), (2, 8), (7, 11), 
+------------------------
+Robot Name: sigma
+Robot Type: BlueThunder
+Position: (19, 4)
+Kills: 0
+Lives: 3
+Fire Location: (20, 4)
+------------------------
+Robot Name: Beta
+Robot Type: Madbot
+Position: (15, 9)
+Kills: 0
+Lives: 3
+Fire Location: (15, 8)
+------------------------
+Robot Name: Bravo
+Robot Type: RoboTank
+Position: (14, 0)
+Kills: 0
+Lives: 3
+Fire Location: (19, 16)
+------------------------
+Robot Name: Delta
+Robot Type: UltimateRobot
+Position: (10, 3)
+Kills: 0
+Lives: 3
+Fire Locations: (7, 7), (18, 1), (5, 8), 
+random Fire Locations At The Field: (10, 18), (15, 7), (3, 4), 
+------------------------
+#------------------------------------------------------------#
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  r  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  t  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  r  .  .  .  .  .  . |
+| .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| R  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+#------------------------------------------------------------#
+
+
+step: 6
+Robot Name: Alpha
+Robot Type: Terminator
+Position: (7, 7)
+Kills: 0
+Lives: 3
+Robot can't fire. 
+------------------------
+Robot Name: Star
+Robot Type: RoboCop
+Position: (10, 14)
+Kills: 0
+Lives: 3
+Fire Locations: (5, 17), (3, 15), (6, 9), 
+------------------------
+Robot Name: kidd
+Robot Type: TerminatorRoboCop
+Position: (1, 7)
+Kills: 0
+Lives: 3
+Fire Locations: (3, 4), (3, 1), (1, 8), 
+------------------------
+Robot Name: Robo
+Robot Type: RoboCop
+Position: (4, 18)
+Kills: 0
+Lives: 3
+Fire Locations: (10, 17), (4, 19), (8, 14), 
+------------------------
+Robot Name: sigma
+Robot Type: BlueThunder
+Position: (19, 4)
+Kills: 0
+Lives: 3
+Fire Location: (20, 3)
+------------------------
+Robot Name: Beta
+Robot Type: Madbot
+Position: (15, 9)
+Kills: 0
+Lives: 3
+Fire Location: (14, 8)
+------------------------
+Robot Name: Bravo
+Robot Type: RoboTank
+Position: (14, 0)
+Kills: 0
+Lives: 3
+Fire Location: (7, 13)
+------------------------
+Robot Name: Delta
+Robot Type: UltimateRobot
+Position: (11, 2)
+Kills: 0
+Lives: 3
+Fire Locations: (10, 2), (15, 6), (17, 0), 
+random Fire Locations At The Field: (9, 1), (11, 9), (4, 16), 
+------------------------
+#------------------------------------------------------------#
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  r  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  t  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  r  .  .  .  .  . |
+| .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| R  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+#------------------------------------------------------------#
+
+
+step: 7
+Robot Name: Alpha
+Robot Type: Terminator
+Position: (8, 6)
+Kills: 0
+Lives: 3
+Robot can't fire. 
+------------------------
+Robot Name: Star
+Robot Type: RoboCop
+Position: (11, 13)
+Kills: 0
+Lives: 3
+Fire Locations: (15, 13), (14, 6), (7, 11), 
+------------------------
+Robot Name: kidd
+Robot Type: TerminatorRoboCop
+Position: (1, 8)
+Kills: 0
+Lives: 3
+Fire Locations: (2, 16), (0, 17), (0, 1), 
+------------------------
+Robot Name: Robo
+Robot Type: RoboCop
+Position: (4, 19)
+Kills: 0
+Lives: 3
+Fire Locations: (3, 12), (10, 16), (5, 18), 
+------------------------
+Robot Name: sigma
+Robot Type: BlueThunder
+Position: (19, 4)
+Kills: 0
+Lives: 3
+Fire Location: (19, 3)
+------------------------
+Robot Name: Beta
+Robot Type: Madbot
+Position: (15, 9)
+Kills: 0
+Lives: 3
+Fire Location: (16, 9)
+------------------------
+Robot Name: Bravo
+Robot Type: RoboTank
+Position: (14, 0)
+Kills: 0
+Lives: 3
+Fire Location: (11, 10)
+------------------------
+Robot Name: Delta
+Robot Type: UltimateRobot
+Position: (10, 3)
+Kills: 1
+Lives: 3
+Fire Locations: (9, 2), (16, 4), (11, 8), 
+random Fire Locations At The Field: (1, 8), (19, 0), (13, 4), 
+------------------------
+#------------------------------------------------------------#
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  r |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  t  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  r  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| R  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+#------------------------------------------------------------#
+
+
+step: 8
+Robot Name: Alpha
+Robot Type: Terminator
+Position: (9, 7)
+Kills: 0
+Lives: 3
+Robot can't fire. 
+------------------------
+Robot Name: Star
+Robot Type: RoboCop
+Position: (10, 12)
+Kills: 0
+Lives: 3
+Fire Locations: (18, 13), (6, 7), (6, 11), 
+------------------------
+Robot Name: Robo
+Robot Type: RoboCop
+Position: (5, 18)
+Kills: 0
+Lives: 3
+Fire Locations: (11, 15), (5, 16), (2, 12), 
+------------------------
+Robot Name: sigma
+Robot Type: BlueThunder
+Position: (19, 4)
+Kills: 0
+Lives: 3
+Fire Location: (18, 3)
+------------------------
+Robot Name: Beta
+Robot Type: Madbot
+Position: (15, 9)
+Kills: 0
+Lives: 3
+Fire Location: (16, 10)
+------------------------
+Robot Name: Bravo
+Robot Type: RoboTank
+Position: (14, 0)
+Kills: 0
+Lives: 3
+Fire Location: (7, 4)
+------------------------
+Robot Name: Delta
+Robot Type: UltimateRobot
+Position: (10, 2)
+Kills: 1
+Lives: 3
+Fire Locations: (8, 3), (14, 4), (16, 6), 
+random Fire Locations At The Field: (19, 12), (6, 6), (5, 4), 
+------------------------
+Robot Name: kidd
+Robot Type: TerminatorRoboCop
+Position: (7, 2)
+Kills: 1
+Lives: 2
+Fire Locations: (6, 9), (7, 12), (14, 0), 
+------------------------
+#------------------------------------------------------------#
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  r  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  T  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  t  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  U  .  .  .  .  .  .  .  .  .  r  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+#------------------------------------------------------------#
+
+
+step: 9
+Robot Name: Alpha
+Robot Type: Terminator
+Position: (8, 8)
+Kills: 0
+Lives: 3
+Robot can't fire. 
+------------------------
+Robot Name: Star
+Robot Type: RoboCop
+Position: (10, 13)
+Kills: 0
+Lives: 3
+Fire Locations: (11, 4), (14, 8), (5, 15), 
+------------------------
+Robot Name: Robo
+Robot Type: RoboCop
+Position: (6, 18)
+Kills: 0
+Lives: 3
+Fire Locations: (9, 15), (9, 14), (3, 12), 
+------------------------
+Robot Name: sigma
+Robot Type: BlueThunder
+Position: (19, 4)
+Kills: 0
+Lives: 3
+Fire Location: (18, 4)
+------------------------
+Robot Name: Beta
+Robot Type: Madbot
+Position: (15, 9)
+Kills: 0
+Lives: 3
+Fire Location: (16, 9)
+------------------------
+Robot Name: Delta
+Robot Type: UltimateRobot
+Position: (9, 3)
+Kills: 1
+Lives: 3
+Fire Locations: (1, 5), (8, 5), (8, 12), 
+random Fire Locations At The Field: (12, 10), (13, 3), (0, 19), 
+------------------------
+Robot Name: kidd
+Robot Type: TerminatorRoboCop
+Position: (7, 3)
+Kills: 1
+Lives: 2
+Fire Locations: (4, 5), (7, 6), (12, 5), 
+------------------------
+Robot Name: Bravo
+Robot Type: RoboTank
+Position: (2, 18)
+Kills: 0
+Lives: 2
+Fire Location: (16, 3)
+------------------------
+#------------------------------------------------------------#
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  R  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  r  . |
+| .  .  .  T  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  t  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  r  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+#------------------------------------------------------------#
+
+
+step: 10
+Robot Name: Alpha
+Robot Type: Terminator
+Position: (9, 8)
+Kills: 0
+Lives: 3
+Robot can't fire. 
+------------------------
+Robot Name: Star
+Robot Type: RoboCop
+Position: (11, 13)
+Kills: 0
+Lives: 3
+Fire Locations: (17, 15), (17, 16), (15, 11), 
+------------------------
+Robot Name: Robo
+Robot Type: RoboCop
+Position: (5, 19)
+Kills: 0
+Lives: 3
+Fire Locations: (7, 13), (4, 11), (1, 13), 
+------------------------
+Robot Name: sigma
+Robot Type: BlueThunder
+Position: (19, 4)
+Kills: 0
+Lives: 3
+Fire Location: (18, 5)
+------------------------
+Robot Name: Beta
+Robot Type: Madbot
+Position: (15, 9)
+Kills: 0
+Lives: 3
+Fire Location: (15, 8)
+------------------------
+Robot Name: Delta
+Robot Type: UltimateRobot
+Position: (10, 4)
+Kills: 1
+Lives: 3
+Fire Locations: (11, 7), (6, 9), (6, 10), 
+random Fire Locations At The Field: (7, 1), (12, 6), (3, 13), 
+------------------------
+Robot Name: kidd
+Robot Type: TerminatorRoboCop
+Position: (6, 2)
+Kills: 1
+Lives: 2
+Fire Locations: (13, 5), (8, 6), (8, 8), 
+------------------------
+Robot Name: Bravo
+Robot Type: RoboTank
+Position: (2, 18)
+Kills: 0
+Lives: 2
+Fire Location: (2, 17)
+------------------------
+#------------------------------------------------------------#
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  R  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  r |
+| .  .  T  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  t  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  r  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+| .  .  .  .  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . |
+#------------------------------------------------------------#
+
+

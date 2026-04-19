@@ -1,0 +1,11 @@
+M by N: 20 20
+steps: 10
+robots: 7
+Terminator         Alpha  5 5
+RoboCop            Star   6 12
+TerminatorRoboCop  kidd  random random
+RoboCop            Robo  2 19
+BlueThunder        sigma 19 4
+Madbot             Beta  15 9
+RoboTank           Bravo random random
+UltimateRobot      Delta random random
